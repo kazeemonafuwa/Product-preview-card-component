@@ -80,6 +80,7 @@ body {
         color: hsl(212, 21%, 14%);
     }
     #main-copy {
+        
         font-family: "Fraunces";
         font-size: 30pt;
         font-weight: 700;
@@ -88,12 +89,6 @@ body {
         
     }
     
-    #copy {
-        font-family: "Montserrat";
-        font-size: 14px;
-        line-height: 1.5rem;;
-        color: hsl(210, 21%, 14%);
-    }
     
 
 
@@ -130,6 +125,14 @@ body {
                 background-color: hsl(156, 42%, 18%, 1);
                 
             }
+
+            #copy {
+                font-family: "Montserrat";
+                font-size: 14px;
+                line-height: 1.5rem;;
+                color: hsl(210, 21%, 14%);
+                width:240px; }
+            
      
 
 }
@@ -186,6 +189,13 @@ body {
         cursor: pointer;
         text-align: center;
     
+    }
+    #copy {
+        font-family: "Montserrat";
+        font-size: 14px;
+        line-height: 1.5rem;;
+        color: hsl(210, 21%, 14%);
+        width:300px;
     }
 
                         
